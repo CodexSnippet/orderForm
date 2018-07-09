@@ -1,0 +1,27 @@
+.container {
+	width: 980px;
+	margin: 0 auto;
+}
+.align-center {
+	text-align: center;
+}
+form table {
+	width: 100%;
+}
+table td {
+	border: 1px solid #666;
+	padding: 10px;
+}
+.group-one {
+	width: 50%;
+	float: left;
+}
+.group-one input {
+	/* width: 50px; */
+}
+.top-option-box {
+	margin-bottom: 10px;
+}
+.btn-submit {
+	width: 100px;
+}
